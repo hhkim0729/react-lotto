@@ -1,0 +1,32 @@
+.box {
+  text-align: center;
+  margin-top: 5vh;
+  color: #555;
+  text-transform: uppercase;
+}
+
+.lotto-box,
+.bonus-box {
+  height: 20vh;
+  margin-bottom: 3vh;
+}
+
+.lotto {
+  display: flex;
+  justify-content: center;
+}
+
+.bonus {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  background-color: #ddd;
+  width: 20vh;
+  font-size: 3vh;
+  border: none;
+  border-radius: 10px;
+  color: #555;
+  cursor: pointer;
+}

@@ -1,0 +1,10 @@
+.ball {
+  width: 10vh;
+  height: 10vh;
+  border-radius: 50%;
+  font-size: 5vh;
+  line-height: 10vh;
+  margin: 0 1vh 0 1vh;
+  color: #444;
+  font-weight: bold;
+}
