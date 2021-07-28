@@ -5,10 +5,14 @@
   text-transform: uppercase;
 }
 
+.box h1 {
+  font-size: 4vh;
+}
+
 .lotto-box,
 .bonus-box {
   height: 20vh;
-  margin-bottom: 3vh;
+  margin-bottom: 2vh;
 }
 
 .lotto {
@@ -24,9 +28,11 @@
 button {
   background-color: #ddd;
   width: 20vh;
+  height: 5vh;
   font-size: 3vh;
   border: none;
-  border-radius: 10px;
+  border-radius: 1vh;
   color: #555;
   cursor: pointer;
+  text-transform: uppercase;
 }
